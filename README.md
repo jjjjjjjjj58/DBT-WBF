@@ -6,3 +6,5 @@ This is the code associated with the paper DBT-WBF: A Weighted Boxes Fusion Mode
 -Count_FROC.py is used to calculate the FROC score
 
 -yolov8_l_syncbn_fast_8xb16-500e_coco.py contains specific training hyperparameters for yolov8
+
+-result.csv is our final result, which readers are welcome to use to make comparisons.
